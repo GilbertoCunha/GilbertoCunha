@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gilberto Cunha</h1>
-<h3 align="center">A curious Engineering Physics Msc student with an interest in Data Science</h3>
+<h3 align="center">I am a Data Scientist with a Msc in Engineering Physics</h3>
 
-- 🌱 I’m currently learning **Time series models and feature engineering methods**
+- 🌱 I’m currently learning **MLOps**
 
 - 📫 How to reach me **grncacad@gmail.com**
 
