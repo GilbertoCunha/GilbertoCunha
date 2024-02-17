@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gilberto Cunha</h1>
-<h3 align="center">I am a Data Scientist with a Msc in Engineering Physics</h3>
+<h3 align="center">I am an MLOps Engineer with a Msc in Engineering Physics</h3>
 
-- 🌱 I’m currently learning **MLOps**
-
-- 📫 How to reach me **grncacad@gmail.com**
+- 📫 How to reach me **grncunha13@gmail.com**
 
 - Check my <a href="http://grnc13.pythonanywhere.com/">personal website</a>!
 
