@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gilberto Cunha</h1>
-<h3 align="center">I am an MLOps Engineer with a Msc in Engineering Physics</h3>
+<h3 align="center">I am an MLOps Engineer at Continental Tires</h3>
+<h3 align="center">Msc in Engineering Physics</h3>
 
 - 📫 How to reach me **grncunha13@gmail.com**
 
